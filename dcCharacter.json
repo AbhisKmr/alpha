@@ -478,7 +478,96 @@
 		"details": "All of us have a little voice in our heads that helps us make wise decisions—at least when we’re willing to listen to it. But if your voice belongs to an antisocial, student bookworm complaining about getting to chemistry class on time, you’re probably the combustible hero known as Firestorm.When it comes to personalities, Ronnie Raymond and Jason Rusch are on opposite ends of the figurative periodic table. Ronnie’s a good-looking athlete with a quick-to-action attitude and a healthy dose of ego, while Jason’s a gifted science student who’s never happier than when he’s working alone in a lab. Caught in an explosion that should have killed them both, the pair were instead fused together into one nuclear-powered being. Bonded through a phenomenon known as the Firestorm Matrix, Ronnie and Jason act together as a single super hero, with Ronnie usually in control of Firestorm’s body, while the more cerebral Jason lends support as a secondary consciousness within the Matrix. Ronnie and Jason have learned to separate at will, returning to their normal forms and capabilities. But when they’re bonded and utilizing the power of the Matrix, Firestorm can fly, absorb radiation, and fire highly destructive blasts of energy from his hands. He possesses immense strength and can rearrange inorganic objects into other shapes or objects—provided he knows their atomic makeup. This last requirement is one of the many reasons that Jason’s contributions are so important, but that doesn’t mean it’s always smooth sailing. In fact, with such different personalities, the two frequently clash both inside and out of the Firestorm Matrix. As a result, Firestorm remains one of the more unpredictable and volatile heroes out there, as well as one of the most dangerous, since too much internal friction could cause a nuclear explosion. But when they do work together, Jason and Ronnie can accomplish great things. Firestorm can quite literally change the world for the better, provided the two young men powering him can only agree on how.",
 		"img": "https://upload.wikimedia.org/wikipedia/en/f/f0/Firestorm_%28DC_Comics%29.png",
 		"superpower": ""
-	}
+	},
+	{
+	"name": "Gorilla Grodd",
+	"gender": "Male",
+	"height": "6.6",
+	"weight": "600 lbs (272 kg)",
+	"creator": "John Broome · Carmine Infantino",
+	"firstAppearance": "The Flash #106 (May, 1959)",
+	"alsoKnownAs": "Gorilla Grodd ",
+	"details": "Hailing from the technologically advanced Gorilla City, home to hyper-intelligent primates living in their own secret, secluded society, Grodd stood apart from his fellow simians through his telepathic and telekinetic powers. Believing that his city’s benevolence was keeping the gorillas from achieving what was rightly theirs, Grodd overthrew the leader of Gorilla City and took his place—a first step in his ultimate goal of taking over the rest of the world and establishing apes as the ruling species on the planet. It was the intervention of the Flash that ultimately stopped the villain's scheme, and forever placed the two as bitter rivals. Grodd has a brutal nature and a level of enhanced strength that make him incredibility dangerous in a physical fight. This is presuming you're even able to get close enough to him to throw a punch as his powerful telepathic abilities give him a distinct advantage over most of his enemies. Along with his strength and aggression, Grodd is also highly intelligent and a master statistician. It is this perfect combination of brain, brawn and savagery that cements Grodd's conviction of his place at the top of the evolutionary scale. And anyone who challenges his claim will find themselves learning the true meaning of survival of the fittest.",
+	"img": "https://vignette.wikia.nocookie.net/marvel_dc/images/8/8b/Gorilla_Grodd_0002.jpg/revision/latest/scale-to-width-down/333?cb=20100616023346",
+	"superpower": ""
+}, {
+	"name": "Green Arrow",
+	"gender": "Male",
+	"height": "5.11",
+	"weight": "195 lbs (88 kg)",
+	"creator": "Mort Weisinger · George Papp",
+	"firstAppearance": "Adventure Comics #250 (July, 1958)",
+	"alsoKnownAs": "Oliver Queen ",
+	"details": "What was the last thing you took home from an island getaway? A tacky souvenir? A great tan? More boring slideshows than you have friends to show? Spoiled billionaire Oliver Queen came home with an entirely different personality—and a newfound purpose in life. Completely self-absorbed and never caring about anything but himself, Queen was on a leisurely sailing trip when his assistant betrayed him, leaving him for dead on a desolate remote island. Stranded, he survived by, amongst other things, mastering a bow and arrow. When he eventually discovered the primitive locals that shared the island with him, he uncovered a large conglomerate sadistically exploiting and enslaving them. Ollie used his new skills of survival and archery to lead a rebellion— only to realize how similar his opponents were to the man he used to be. Returning to civilization only meant more opportunities to watch greed and corruption strangle Joe and Jane Average. Outfitting himself with arrows that shoot tear gas, smoke, nets, and more, Green Arrow has a trick shot for every obstacle. A modern-day Robin Hood, he constantly fights for the little guy as a crusading symbol for revolution. And his days on that island, filled with sweat, blood, and desperation, are a testament to what it takes for someone to answer that wake-up call, change their ways, and fly straight. As straight as an arrow.",
+	"img": "https://vignette.wikia.nocookie.net/marvel_dc/images/2/29/Green_Arrow_Vol_6_1_Textless_Variant.jpg/revision/latest/scale-to-width-down/333?cb=20160617025432",
+	"superpower": ""
+}, {
+	"name": "Green Lantern",
+	"gender": "Male",
+	"height": "6.0",
+	"weight": "201 lbs (91 kg)",
+	"creator": "Bill Finger · Martin Nodell",
+	"firstAppearance": "All-American Comics #16 (July, 1940)",
+	"alsoKnownAs": "Hal Jordan /Alan Scott ",
+	"details": "The only catch? Mastering that power and being a Green Lantern means facing your fears, and for headstrong Hal Jordan, that’s something he’s been avoiding his whole life.When just a boy, Hal witnessed his greatest nightmare—his pilot father dying in a tragic plane crash. Nevertheless determined to follow in his footsteps, Hal repressed his fears, becoming a reckless, defiant test pilot. But when a dying alien crashes on Earth, the irresponsible Hal is chosen to be that alien’s successor in the Green Lantern Corps, a universe-wide peacekeeping force over 3,600 members strong. And his life only gets wilder from there. Alien romances. Intergalactic wars. Power-hungry super-villains. Wielding a Green Lantern power ring—a weapon fueled by willpower—he can fly and create constructs made of pure energy, generating anything from massive green fists to emerald rifles that can snipe from a planet away. But while Hal tends to ignore his fears, he’ll learn the only way to truly master his ring’s power is by confronting and overcoming them.",
+	"img": "https://vignette.wikia.nocookie.net/marvel_dc/images/8/83/Hal_Jordan_and_the_Green_Lantern_Corps_Vol_1_45_Textless_Variant.jpg/revision/latest/scale-to-width-down/329?cb=20180523193425",
+	"superpower": ""
+}, {
+	"name": "Harley Quinn",
+	"gender": "Female",
+	"height": "5' 7",
+	"weight": "140 lbs (64 kg)",
+	"creator": "Paul Dini · Bruce Timm",
+	"firstAppearance": "Batman: Harley Quinn (October, 1999)",
+	"alsoKnownAs": "Harleen Francis Quinzel",
+	"details": "Before her descent into madness, Dr. Harleen Quinzel was a promising psychiatrist assigned to Arkham Asylum, Gotham's home for the criminally insane. But after meeting the Joker, the young doctor became obsessed with the crazed criminal's warped mind. Sensing opportunity, the Joker manipulated her, driving his therapist so mad that he was able to control her. Harleen fell in love with the villain, broke him out of Arkham and devoted her life to making him happy and spreading his bloody brand of mayhem. Athletic, agile and dangerously unpredictable in a fight, Harley Quinn is a formidable opponent in her own right. She is willing to do anything in order to further the Clown Prince of Crime's goals—no matter the cost to anyone else or even herself. Her energetic, affable and animated personality is enough to make almost anyone drop their guard—a mistake that could easily cost them their life. Deranged and psychotic, Harley Quinn is the poster girl for chaos' terrifying allure.",
+	"img": "https://vignette.wikia.nocookie.net/marvel_dc/images/d/da/Harley_Quinn_Vol_2_9_Textless.jpg/revision/latest/scale-to-width-down/329?cb=20140813193358",
+	"superpower": ""
+}, {
+	"name": "Harvey Bullock",
+	"gender": "Male",
+	"height": "5.10",
+	"weight": "248 lbs (112 kg)",
+	"creator": "Archie Goodwin · Howard Chaykin · Doug Moench · Don Newton",
+	"firstAppearance": "Detective Comics #44 (July, 1974)",
+	"alsoKnownAs": "Harvey Bullock ",
+	"details": "Gotham City's Police Department doesn't exactly have a reputation for excellence, but that doesn't mean Batman's home is without good cops. It’s just that in a city like Gotham, to uphold the law, you sometimes have to be willing to break it.At least, that’s how Detective Harvey Bullock sees it. A good cop worn down by the corruption of Gotham, Bullock may appear slovenly or even oafish, but don’t be fooled. He’s a smart man, dedicated to solving crimes. He just knows that in this city, sometimes to solve a crime you need to cross the line. Whether it’s taking a bribe, roughing up a perp or forging ties with organized crime, Bullock is more than willing to bend the rules to keep the people of Gotham safe and put the truly dangerous criminals behind bars.Even though he may operate in a decidedly gray area, Bullock has righteous intentions. He's loyal to the job and Commissioner Gordon, and has a begrudging respect for Batman. Bullock's willingness to push the boundaries of ethics in favor of getting results to benefit the greater good has proven effective, but it's dangerous territory. He must exercise caution to ensure he doesn't go too far and lose his way. Otherwise, this cop, who has devoted his life to upholding the law, may just find himself on the wrong side of it.",
+	"img": "https://vignette.wikia.nocookie.net/marvel_dc/images/b/be/Harvey_Bullock_0001.jpg/revision/latest/scale-to-width-down/329?cb=20140711182121",
+	"superpower": ""
+}, {
+	"name": "Hawkgirl",
+	"gender": "Female",
+	"height": "5.4",
+	"weight": "114 lbs (52 kg)",
+	"creator": "Gardner Fox · Dennis Neville",
+	"firstAppearance": "Flash Comics # (January, 1940)",
+	"alsoKnownAs": "Shiera Sanders /Kendra Saunders",
+	"details": "Hawkgirl’s abilities stem from the mysterious gravity-defyting Nth metal only native to her home planet of Thanagar. The metal serves as the basis for much of the planet’s technological advancements and makes the Thanagarian weapon system unique throughout the galaxy. The metal, coupled with a synthetic pair of wings, allows Hawkgirl to fly and also grants her enhanced strength and the ability to heal more quickly from injury. In battle, she wields swords and maces forged from the mysterious alloy, which allow her to disrupt magic and deflect blasts of energy.  However, regardless of her weapons powerful properties, Shayera is an expert warrior and is incredibly deadly with her trusty mace. Shayera is dedicated to the pursuit of justice and uses all of her skills and abilities to battle those that would harm the innocent. Her penchant for violence honed growing up on her home planet often makes other heroes and law enforcement from Earth uneasy. Yet despite her warlike nature, Hawkgirl is viewed by both friend and foe as a warrior for justice that will protect the planet and its people with her very life.",
+	"img": "https://vignette.wikia.nocookie.net/marvel_dc/images/9/9e/Brightest_Day_Vol_1_8_Textless.jpg/revision/latest/scale-to-width-down/333?cb=20130226230310",
+	"superpower": ""
+}, {
+	"name": "Hawkman",
+	"gender": "Male",
+	"height": "6.1",
+	"weight": "195 lbs (88 kg)",
+	"creator": "Gardner Fox · Dennis Neville",
+	"firstAppearance": "Flash Comics #1 (January, 1940)",
+	"alsoKnownAs": "Carter Hall ",
+	"details": "Originally hailing from the planet Thanagar, Hawkman is the world's fiercest attacker and one of its most feared warriors. With his wings and his trusty mace, Hawkman patrols the skies with a savage intensity. Hawkman’s weapons and artificial wings both are forged from the mysterious Nth metal, which can only found on his home planet. They grant him the power of flight as well as enhanced strength and healing. Hotheaded, impatient, and single-minded and unrelenting in his drive, Hawkman ranks as one of the world's greatest heroes—but also one of its most dangerous. Many people fear Hawkman’s savage brutality and his penchant for violence, but that appears to be just the attitude he wants them to have. His barbaric methods and disregard for rules and regulations often put him at odds with law enforcement and his fellow heroes, but through it all, Hawkman's personal code and sense of justice prevail above all else—it just so happens that personal code and sense of justice also involves smashing many things",
+	"img": "https://vignette.wikia.nocookie.net/marvel_dc/images/2/25/Hawkman_Vol_5_1_Textless.jpg/revision/latest/scale-to-width-down/315?cb=20180613183242",
+	"superpower": ""
+}, {
+	"name": "Heat Wave",
+	"gender": "Male",
+	"height": "5.11",
+	"weight": "179 lbs (81 kg)",
+	"creator": "John Broome · Carmine Infantino",
+	"firstAppearance": "The Flash #140 (November, 1963)",
+	"alsoKnownAs": "Mick Rory ",
+	"details": "As a young child, Rory was fascinated with fire, entranced by the flames as they danced and glowed. However, fascination quickly turned into obsession, and Rory set fire to his family's farmhouse...with them still inside, watching as the flames engulfed everything. As he grew older, his obsession grew stronger and he continued to set fires wherever he went. After getting to know many of the other villains of Central City and seeing how they operated, Rory created a fireproof suit and handgun-size flamethrower capable of reaching extreme levels of heat. With these, Rory moved from a simple arsonist to a super-villain—Heat Wave. Although he faced the Flash a number of times on his own, Heat Wave eventually joined the ranks of Captain Cold's Rogues, quickly becoming one of the criminal organization’s most prominent members. Heat Wave is capable of creating flames so hot that he can instantaneously reduce anything flammable around him to ash and liquefy metal. He works regularly with the Rogues, but unlike the other members of the group who follow a code, Heat Wave's only goal is to watch things burn—making him the most disturbed and dangerous of all the Rogues.",
+	"img": "https://vignette.wikia.nocookie.net/marvel_dc/images/a/a6/Heat_Wave_0004.jpg/revision/latest/scale-to-width-down/335?cb=20160809173150",
+	"superpower": ""
+}
 
 
 ]
