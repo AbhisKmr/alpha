@@ -38,8 +38,8 @@ Mobile App (Bluetooth + GPS)
 
 | Layer         | Technology                    |
 | ------------- | ----------------------------- |
-| API Framework | NestJS (Node.js)              |
-| Database      | MongoDB                       |
+| API Framework | Django/Fast API (Python)      |
+| Database      | MongoDB / PostgreSQL          |
 | Realtime Comm | WebSocket (Socket.IO)         |
 | Auth          | JWT + Role-based              |
 | Storage       | AWS S3                        |
